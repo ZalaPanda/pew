@@ -1,4 +1,8 @@
 # pew
 Pico-8 learning project
 
-`export index.html -p crtplate_autoplay`
+Demo url: https://zalapanda.github.io/pew/
+
+```
+export index.html -p crtplate_autoplay
+```
